@@ -1,0 +1,42 @@
+Settings folder.
+
+import OS
+ to run on linux
+
+
+Change Base Path - HANNAH
+
+
+Secret Key ~ Unique to admin/project , do not share at all... EVER!!!!!!!!!
+
+	**** turn Debug False when going live **** real strangers , do not auto-trust
+
+
+where pages/parts of project lives apps 
+
+
+Security features built in Middleware for permission requests
+
+
+url - ability for bar / pages
+	currently local
+
+
+templates	used to make things that will be everywhere 
+	nav bar, titles, etc	-Niani CSS/Swift -Tristen HTML/Droid
+
+
+WSGI - server to get online
+
+DB - sqlite best reader, not best writer
+
+
+Password encode , decode , reject
+
+
+
+
+rest APIs will allow access to mobiles through requests
+
+https://coderbook.com/@marcus/how-scalable-are-websites-built-in-django-framework/
+
